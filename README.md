@@ -1,7 +1,7 @@
 # QR Code Generator Bot
 This project is a Telegram bot that generates QR codes from text messages sent by users. It is built with Python and the Telebot library.
 
-You can find running instance of this bot [here](https://t.me/qrgen_81_bot).
+You can find running instance of this bot [here](https://t.me/nekoqr_bot).
 
 ## Installation
 
